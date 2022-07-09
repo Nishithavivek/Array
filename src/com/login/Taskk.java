@@ -25,5 +25,11 @@ public class Taskk {
     	 System.out.println(c);
      }
      System.out.println("nishi");
+     
+
+     System.out.println("Western");
+     System.out.println("Folk");
+     System.out.println("Freestyle");
+   
 	}
 }
